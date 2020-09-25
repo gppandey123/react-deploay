@@ -71,14 +71,7 @@ import About from '../About';
     
 
    
-    // tableHeader = () => {
-    //    let header = Object.keys(this.state.table[0])
-    //       return header.map((item ,index) => {
-    //           return (
-    //               <th key ={index}>{item.toUpperCase()}</th>
-    //           );
-    //       }) 
-    // }
+    
 
     render() {
        
@@ -91,7 +84,7 @@ import About from '../About';
                 <table>
                     <tbody>
                        <tr>
-                          
+                          <tr>s no</tr>
                            <th>Name</th>
                            <th><b>edit</b></th>
                            <th><b>delete</b></th>
